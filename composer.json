@@ -15,7 +15,7 @@
                 "js/jquery.cookie.js"
             ],
             "styles": [
-                "jquery.nivo.slider.css"
+                "nivo-slider.css"
             ],
             "files": [
                 "themes/bar/*",
